@@ -22,4 +22,4 @@ plugins {
 include(":app")
 include(":utils")
 
-rootProject.name = "first-kotlin-project"
+rootProject.name = "first-Kotlin-project"
